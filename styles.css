@@ -415,6 +415,10 @@ footer {
     background-color: #242424;
 }
 
+.public__domain {
+    height: 13px;
+}
+
 .footer__social--list {
     width: 100%;
     max-width: 500px;
