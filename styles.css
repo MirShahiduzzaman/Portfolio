@@ -249,8 +249,7 @@ nav {
 
 .wave {
     display: inline-block;
-    animation: animate-wave 500ms 1000ms ease-in-out;
-    /* animation: animate-wave 500ms infinite ease-in-out; */
+    animation: animate-wave 500ms infinite ease-in-out;
 }
 
 @keyframes animate-wave {
