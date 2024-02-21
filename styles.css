@@ -229,7 +229,7 @@ nav {
     flex: 1;
     display: flex;
     align-items: center;
-    margin-top: 24px;
+    margin-top: 26px;
     margin-bottom: 24px;
 }
 
@@ -328,6 +328,7 @@ nav {
 .project__img {
     display: block;
     max-width: 100%;
+    max-height: 400px;
     margin: auto;
 
     transition: all 500ms ease;
@@ -490,6 +491,10 @@ footer {
     .project__description {
         left: 30px;
         padding-right: 30px;
+    }
+
+    .project__img {
+        max-height: 225px;
     }
 }
 
